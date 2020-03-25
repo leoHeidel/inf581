@@ -1,5 +1,11 @@
 # Project for INF581: Advanced Topics in Artificial Intelligence
 
+## Results
+
+Diamonds             |  Lava
+:-------------------------:|:-------------------------:
+![](diamond.gif)  |  ![](lava.gif)
+
 ## Abstract
 The goal of this project is to use the reinforcement learning platform [**Malmo**](https://github.com/Microsoft/malmo) developed by Microsoft. Malmo allows to use **Minecraft** as a universe, for the purpose of researching and benchmarking reinforcement learning algorithms . In this project we evaluate various algorithms from [stable-baselines](https://github.com/hill-a/stable-baselines), a fork from [OpenAI Baselines](https://github.com/openai/baselines). We also evaluate the importance of choosing the correct gain function.
 
